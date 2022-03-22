@@ -31,6 +31,7 @@ def rectangle(start, end):
 
 def triangle(start, end):
     "Draw triangle from start to end."
+    # prueba para ver si jalo
     pass  # TODO
 
 def tap(x, y):
