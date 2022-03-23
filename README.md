@@ -1,2 +1,2 @@
 # Equipo5
- Alexis Chapa, Leonardo Garcia, Eugenio Lozano
+ Alexis Chapa, Leonardo Garcia, Eugenio Lozano, Rodolfo Alejandro
